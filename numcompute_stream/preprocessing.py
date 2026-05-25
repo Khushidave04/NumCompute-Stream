@@ -299,3 +299,4 @@ class OneHotEncoder:
         """Update known categories and transform the same chunk."""
         return self.partial_fit(X).transform(X)
 # Preprocessing module
+# MinMaxScaler implementation
