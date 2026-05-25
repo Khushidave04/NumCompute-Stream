@@ -280,3 +280,4 @@ class StreamingClassificationMetrics:
             "labels": list(self.confusion_matrix.labels_),
         }
 # Metrics: accuracy, kappa
+# accuracy_score function
