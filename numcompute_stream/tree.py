@@ -314,3 +314,4 @@ class DecisionTreeClassifier:
         return node.prediction
 # Hoeffding Tree skeleton
 # HoeffdingTreeNode dataclass added
+# Hoeffding bound split criterion
