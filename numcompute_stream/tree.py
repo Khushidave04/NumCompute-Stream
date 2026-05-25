@@ -313,3 +313,4 @@ class DecisionTreeClassifier:
                 node = node.right
         return node.prediction
 # Hoeffding Tree skeleton
+# HoeffdingTreeNode dataclass added
