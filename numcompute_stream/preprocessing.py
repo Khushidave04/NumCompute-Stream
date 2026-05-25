@@ -300,3 +300,4 @@ class OneHotEncoder:
         return self.partial_fit(X).transform(X)
 # Preprocessing module
 # MinMaxScaler implementation
+# StandardScaler added
