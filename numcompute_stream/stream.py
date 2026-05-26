@@ -157,3 +157,4 @@ class StreamTrainer:
         self.metric_history = {name: [] for name in self.metrics}
         return self
 # Stream reader/generator
+# DataStream generator
