@@ -157,3 +157,4 @@ class StreamingStats:
         self._buffer = deque(maxlen=maxlen)
         return self
 # Descriptive statistics helpers
+# RunningMean class
