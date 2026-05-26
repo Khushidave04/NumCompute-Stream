@@ -316,3 +316,4 @@ class DecisionTreeClassifier:
 # HoeffdingTreeNode dataclass added
 # Hoeffding bound split criterion
 # HoeffdingTree.fit() implemented
+# HoeffdingTree.predict() added
