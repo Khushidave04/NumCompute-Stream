@@ -109,3 +109,4 @@ def write_csv(path, X, y, header=None, delimiter: str = ","):
             writer.writerow(list(row) + [target])
 # IO: CSV and Parquet readers
 # CSVStream reader
+# ParquetStream reader
