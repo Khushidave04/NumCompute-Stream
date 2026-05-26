@@ -159,3 +159,4 @@ class StreamTrainer:
 # Stream reader/generator
 # DataStream generator
 # ConceptDriftDetector stub
+# ADWIN implementation
