@@ -204,3 +204,4 @@ class EnsembleClassifier:
             out.append(labels[np.argmax(counts)])
         return np.asarray(out)
 # Ensemble base
+# BaggingClassifier for streaming
