@@ -106,3 +106,4 @@ class Pipeline:
             raise ValueError("X and y contain different numbers of samples.")
         return float(np.mean(pred == y))
 # Pipeline orchestrator
+# Pipeline.fit_transform()
