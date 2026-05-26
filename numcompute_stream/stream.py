@@ -158,3 +158,4 @@ class StreamTrainer:
         return self
 # Stream reader/generator
 # DataStream generator
+# ConceptDriftDetector stub
