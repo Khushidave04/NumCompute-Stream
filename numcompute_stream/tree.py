@@ -317,3 +317,4 @@ class DecisionTreeClassifier:
 # Hoeffding bound split criterion
 # HoeffdingTree.fit() implemented
 # HoeffdingTree.predict() added
+# learn_one streaming method
