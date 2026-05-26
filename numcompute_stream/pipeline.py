@@ -107,3 +107,4 @@ class Pipeline:
         return float(np.mean(pred == y))
 # Pipeline orchestrator
 # Pipeline.fit_transform()
+# Pipeline step chaining
