@@ -158,3 +158,4 @@ class StreamingStats:
         return self
 # Descriptive statistics helpers
 # RunningMean class
+# Welford running variance
