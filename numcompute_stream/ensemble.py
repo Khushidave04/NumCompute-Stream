@@ -206,3 +206,4 @@ class EnsembleClassifier:
 # Ensemble base
 # BaggingClassifier for streaming
 # BoostingClassifier stub
+# majority vote predict
