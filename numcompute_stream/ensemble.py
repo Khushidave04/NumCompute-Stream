@@ -205,3 +205,4 @@ class EnsembleClassifier:
         return np.asarray(out)
 # Ensemble base
 # BaggingClassifier for streaming
+# BoostingClassifier stub
