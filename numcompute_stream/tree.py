@@ -321,3 +321,4 @@ class DecisionTreeClassifier:
 # Information gain split criterion
 # Gini impurity split option
 # Majority class leaf prediction
+# NaiveBayes leaf prediction
