@@ -109,3 +109,4 @@ class Pipeline:
 # Pipeline.fit_transform()
 # Pipeline step chaining
 # Prequential (test-then-train) evaluation
+# Sliding window evaluation
