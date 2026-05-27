@@ -159,3 +159,4 @@ class StreamingStats:
 # Descriptive statistics helpers
 # RunningMean class
 # Welford running variance
+# HistogramSketch for numeric features
