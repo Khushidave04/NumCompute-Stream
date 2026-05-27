@@ -282,3 +282,4 @@ class StreamingClassificationMetrics:
 # Metrics: accuracy, kappa
 # accuracy_score function
 # kappa_score function
+# precision_score
