@@ -160,3 +160,4 @@ class StreamingStats:
 # RunningMean class
 # Welford running variance
 # HistogramSketch for numeric features
+# CountMinSketch
