@@ -318,3 +318,4 @@ class DecisionTreeClassifier:
 # HoeffdingTree.fit() implemented
 # HoeffdingTree.predict() added
 # learn_one streaming method
+# Information gain split criterion
