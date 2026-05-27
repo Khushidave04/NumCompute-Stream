@@ -320,3 +320,4 @@ class DecisionTreeClassifier:
 # learn_one streaming method
 # Information gain split criterion
 # Gini impurity split option
+# Majority class leaf prediction
