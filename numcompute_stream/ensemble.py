@@ -208,3 +208,4 @@ class EnsembleClassifier:
 # BoostingClassifier stub
 # majority vote predict
 # Poisson sampling in bagging
+# OzaBagging: online bagging
