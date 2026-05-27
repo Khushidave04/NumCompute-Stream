@@ -94,3 +94,4 @@ class TestStreamingMetrics(unittest.TestCase):
 if __name__ == "__main__":
     unittest.main()
 # test_metrics: accuracy assertion
+# test precision, recall, f1
