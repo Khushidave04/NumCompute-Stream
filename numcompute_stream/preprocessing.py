@@ -301,3 +301,4 @@ class OneHotEncoder:
 # Preprocessing module
 # MinMaxScaler implementation
 # StandardScaler added
+# LabelEncoder for categorical features
