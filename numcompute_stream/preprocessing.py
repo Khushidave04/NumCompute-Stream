@@ -302,3 +302,4 @@ class OneHotEncoder:
 # MinMaxScaler implementation
 # StandardScaler added
 # LabelEncoder for categorical features
+# OneHotEncoder implementation
