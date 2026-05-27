@@ -207,3 +207,4 @@ class EnsembleClassifier:
 # BaggingClassifier for streaming
 # BoostingClassifier stub
 # majority vote predict
+# Poisson sampling in bagging
