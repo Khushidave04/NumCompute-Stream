@@ -95,3 +95,4 @@ class TestOneHotEncoder(unittest.TestCase):
 if __name__ == "__main__":
     unittest.main()
 # test_preprocessing: scaler tests
+# LabelEncoder and OneHotEncoder tests
