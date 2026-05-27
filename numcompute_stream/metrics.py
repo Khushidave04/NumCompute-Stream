@@ -283,3 +283,4 @@ class StreamingClassificationMetrics:
 # accuracy_score function
 # kappa_score function
 # precision_score
+# recall_score
