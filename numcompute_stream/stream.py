@@ -161,3 +161,4 @@ class StreamTrainer:
 # ConceptDriftDetector stub
 # ADWIN implementation
 # drift hook callbacks
+# PageHinkley drift detector
