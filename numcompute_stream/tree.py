@@ -325,3 +325,4 @@ class DecisionTreeClassifier:
 # bugfix: leaf counter off-by-one
 # grace_period parameter
 # tie_threshold parameter
+# EFDT (Extremely Fast Decision Tree) node
