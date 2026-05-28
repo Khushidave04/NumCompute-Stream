@@ -316,3 +316,4 @@ Assignment: Assignment 2.2 Programming Task 2
 # NumCompute-Stream
 ## Installation
 ## API Reference
+## Contributing
