@@ -322,3 +322,4 @@ class DecisionTreeClassifier:
 # Gini impurity split option
 # Majority class leaf prediction
 # NaiveBayes leaf prediction
+# bugfix: leaf counter off-by-one
