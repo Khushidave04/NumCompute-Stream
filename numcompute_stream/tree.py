@@ -326,3 +326,4 @@ class DecisionTreeClassifier:
 # grace_period parameter
 # tie_threshold parameter
 # EFDT (Extremely Fast Decision Tree) node
+# EFDT.learn_one with re-evaluation
