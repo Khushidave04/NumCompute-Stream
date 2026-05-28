@@ -74,3 +74,4 @@ class TestDecisionTreeClassifier(unittest.TestCase):
 if __name__ == "__main__":
     unittest.main()
 # test_tree: basic HoeffdingTree tests
+# EFDT test suite
