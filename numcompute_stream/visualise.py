@@ -101,3 +101,4 @@ def plot_predictions_vs_ground_truth(y_true, y_pred, title="Predictions vs groun
 # plot_confusion_matrix() helper
 # scatter_plot() for feature space
 # animated_accuracy_curve()
+# feature_importance_bar()
