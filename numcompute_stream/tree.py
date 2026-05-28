@@ -324,3 +324,4 @@ class DecisionTreeClassifier:
 # NaiveBayes leaf prediction
 # bugfix: leaf counter off-by-one
 # grace_period parameter
+# tie_threshold parameter
