@@ -162,3 +162,4 @@ class StreamTrainer:
 # ADWIN implementation
 # drift hook callbacks
 # PageHinkley drift detector
+# DDM: Drift Detection Method
