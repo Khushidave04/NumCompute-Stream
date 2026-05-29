@@ -110,3 +110,4 @@ def write_csv(path, X, y, header=None, delimiter: str = ","):
 # IO: CSV and Parquet readers
 # CSVStream reader
 # ParquetStream reader
+# chunked_read() generator
