@@ -209,3 +209,4 @@ class EnsembleClassifier:
 # majority vote predict
 # Poisson sampling in bagging
 # OzaBagging: online bagging
+# AdaptiveRandomForest class
