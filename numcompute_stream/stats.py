@@ -162,3 +162,4 @@ class StreamingStats:
 # HistogramSketch for numeric features
 # CountMinSketch
 # StreamingKMeans (Lloyd online)
+# BIRCH clustering features
