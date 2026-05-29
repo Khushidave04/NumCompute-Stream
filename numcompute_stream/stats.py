@@ -161,3 +161,4 @@ class StreamingStats:
 # Welford running variance
 # HistogramSketch for numeric features
 # CountMinSketch
+# StreamingKMeans (Lloyd online)
