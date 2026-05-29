@@ -46,3 +46,4 @@ __all__ = [
     "chunk_iter",
 ]
 # NumCompute-Stream: streaming ML library
+# type hints added to public API
