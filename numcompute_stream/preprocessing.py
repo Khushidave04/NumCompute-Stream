@@ -303,3 +303,4 @@ class OneHotEncoder:
 # StandardScaler added
 # LabelEncoder for categorical features
 # OneHotEncoder implementation
+# NaN guard in StandardScaler
