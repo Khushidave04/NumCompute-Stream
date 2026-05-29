@@ -211,3 +211,4 @@ class EnsembleClassifier:
 # OzaBagging: online bagging
 # AdaptiveRandomForest class
 # ARF.learn_one with background tree
+# ARF.predict_proba()
