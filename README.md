@@ -318,3 +318,4 @@ Assignment: Assignment 2.2 Programming Task 2
 ## API Reference
 ## Contributing
 ## Usage Examples
+![Python](https://img.shields.io/badge/python-3.10+-blue)
