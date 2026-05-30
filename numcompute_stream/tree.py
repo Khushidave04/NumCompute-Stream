@@ -327,3 +327,4 @@ class DecisionTreeClassifier:
 # tie_threshold parameter
 # EFDT (Extremely Fast Decision Tree) node
 # EFDT.learn_one with re-evaluation
+# docstrings added
