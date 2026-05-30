@@ -317,3 +317,4 @@ Assignment: Assignment 2.2 Programming Task 2
 ## Installation
 ## API Reference
 ## Contributing
+## Usage Examples
