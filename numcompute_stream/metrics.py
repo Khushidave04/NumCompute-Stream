@@ -287,3 +287,4 @@ class StreamingClassificationMetrics:
 # f1_score
 # roc_auc_score streaming
 # geometric_mean_score
+# metrics docstrings
