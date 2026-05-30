@@ -397,3 +397,4 @@ if __name__ == "__main__":
 # Benchmark: throughput & accuracy
 # measure instances per second
 # tracemalloc memory profiling
+# results summary table
