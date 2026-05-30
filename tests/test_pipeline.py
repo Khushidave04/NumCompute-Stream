@@ -73,3 +73,4 @@ if __name__ == "__main__":
     unittest.main()
 # end-to-end pipeline test
 # edge case: empty stream
+# pipeline + drift detector integration
