@@ -47,3 +47,4 @@ __all__ = [
 ]
 # NumCompute-Stream: streaming ML library
 # type hints added to public API
+__all__ = ["HoeffdingTree", "ARF", "Pipeline"]
