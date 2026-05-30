@@ -328,3 +328,4 @@ class DecisionTreeClassifier:
 # EFDT (Extremely Fast Decision Tree) node
 # EFDT.learn_one with re-evaluation
 # docstrings added
+# typo fix in comments
