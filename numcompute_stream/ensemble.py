@@ -212,3 +212,4 @@ class EnsembleClassifier:
 # AdaptiveRandomForest class
 # ARF.learn_one with background tree
 # ARF.predict_proba()
+# ensemble docstrings
