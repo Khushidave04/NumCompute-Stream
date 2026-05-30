@@ -113,3 +113,4 @@ def write_csv(path, X, y, header=None, delimiter: str = ","):
 # chunked_read() generator
 # JSONStream reader
 # KafkaStream stub
+# io docstrings
