@@ -164,3 +164,4 @@ class StreamTrainer:
 # PageHinkley drift detector
 # DDM: Drift Detection Method
 # bugfix: ADWIN window memory leak
+# stream docstrings
