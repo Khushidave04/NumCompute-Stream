@@ -309,16 +309,8 @@ Despite these limitations, the framework successfully demonstrates modular strea
 
 ## Author
 
-Student Name:
-Student ID:
-Course/Module:
+Student Name: Khushi Dave
+Student ID: a1991664
+Course/Module: Programming for AI and ML
 Assignment: Assignment 2.2 Programming Task 2
 # NumCompute-Stream
-## Installation
-## API Reference
-## Contributing
-## Usage Examples
-![Python](https://img.shields.io/badge/python-3.10+-blue)
-## Known Limitations
-## Future Work
-<!-- v0.1.0 release -->
