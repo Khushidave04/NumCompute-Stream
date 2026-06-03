@@ -73,4 +73,4 @@ class TestStreamTrainer(unittest.TestCase):
 if __name__ == "__main__":
     unittest.main()
 # test_stream: DataStream test
-# ADWIN and PageHinkley tests
+# ADMIN and PageHinkley tests
